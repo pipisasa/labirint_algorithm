@@ -1,4 +1,4 @@
-# labirint algoritm
+# labirint algorithm
 
 ### [Live Demo](https://pipisasa.github.io/labirint_algoritm/)
 
